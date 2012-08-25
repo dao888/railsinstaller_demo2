@@ -15,6 +15,7 @@ gem 'capybara', '1.1.2'
 end
 
 gem 'mysql2', :group => :production
+gem 'pg', :group => :production
 
 
 # Gems used only for assets and not required
