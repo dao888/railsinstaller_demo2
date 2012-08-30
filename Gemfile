@@ -14,7 +14,7 @@ group :test do
 gem 'capybara', '1.1.2'
 end
 
-gem 'mysql2', :group => :production
+#gem 'mysql2', :group => :production
 gem 'pg', :group => :production
 
 
